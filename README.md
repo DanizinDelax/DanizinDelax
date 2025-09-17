@@ -27,14 +27,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 📫 Contato  
 <p align="center">
   <a href="mailto:daniellazerini@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
