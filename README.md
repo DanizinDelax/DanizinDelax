@@ -37,7 +37,6 @@
 
 ## 📫 Contato  
 <p align="center">
-  <a href="tel:+5547988560968"><img src="https://img.shields.io/badge/-Telefone-%2300BFA5?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <a href="mailto:daniellazerini@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/daniel-augusto-lazerini-ab977b382/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DanizinDelax"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/></a>
